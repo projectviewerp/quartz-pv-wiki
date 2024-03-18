@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to ProjectVIEW ERP Wiki
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+ProjectVIEW ERP Wiki provides the complete documentation for setting up and managing [DANAOS](wwww.danaos-projects.com) software
